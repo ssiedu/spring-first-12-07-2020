@@ -6,7 +6,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class DemoUser {
 
 	public static void main(String[] args) {
-
+//
 		//this class needs an instance of Demo
 		
 		/*
